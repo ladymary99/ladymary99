@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ladymary99
-- 👀 I’m interested in Game development
-- 🌱 I’m currently learning React.js and Three.js
+- 👀 I’m interested in Game development and 3D web
+- 🌱 I’m currently learning Three.js 
 - 💞️ I’m looking to collaborate on web-based game projects and ineractive 3D applications
 - 📫 How to reach me saanii.bt77@gmail.com
 - 😄 Pronouns: She/Her
