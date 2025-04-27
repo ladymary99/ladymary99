@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ladymary99
+- 👋 Hi, I’m lady mary
 - 👀 I’m interested in Game development and 3D web
 - 🌱 I’m currently learning Three.js, WebGL and Back-End
 - 💞️ I’m looking to collaborate on web-based game projects and ineractive 3D applications
