@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web-based   3d  projects and ineractive 3D applications
 - 📫 How to reach me maryam@platoonpro.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I once spent an entire night debugging, only to find out I missed a single semicolon!
+- ⚡ Fun fact: I refrence a game for my website
 
 <!---
 ladymary99/ladymary99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
